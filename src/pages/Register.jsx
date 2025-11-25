@@ -4,8 +4,8 @@ import { useNavigate, Link } from "react-router-dom";
 import { post } from "../api"; 
 import "../styles/register.css";
 
-const LEFT_IMAGE = './src/assets/info.png'; 
-const LEFT_IMAGE1 = './src/assets/info.png'; 
+const LEFT_IMAGE = '../assets/info.png'; 
+const LEFT_IMAGE1 = '../assets/info.png'; 
 
 // Large degree list
 const DEGREE_LIST = [
