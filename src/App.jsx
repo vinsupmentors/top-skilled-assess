@@ -5,7 +5,7 @@ import './App.css';
 // --- Pages ---
 import Register from './pages/Register';
 import Login from './pages/Login';
-const IMAGE = './src/assets/info.png';
+const IMAGE = '../assets/info.png';
 
 // --- Components ---
 import StudentProfileForm from './components/StudentProfileForm';
