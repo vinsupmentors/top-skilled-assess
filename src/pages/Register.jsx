@@ -153,7 +153,7 @@ export default function Register() {
         {/* Left Side: Illustration / Branding */}
         <div className="register-left">
           <div className="register-left-content">
-            <img src={LEFT_IMAGE || "https://placehold.co/400x300/1a73e8/ffffff?text=Vinsup+Portal"} alt="Welcome Illustration" className="login-illustration1" />
+            
             <h3>Welcome to Vinsup Info Tech</h3>
             <p>Join the assessment portal to launch your career.</p>
           </div>
