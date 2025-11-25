@@ -98,7 +98,7 @@ export default function Register() {
           <div className="register-left">
             <div className="register-left-content">
               {/* Use placeholder if asset path is uncertain */}
-              <img src={LEFT_IMAGE1 || "https://placehold.co/400x300/1a73e8/ffffff?text=Success"} alt="Success Illustration" className="login-illustration" />
+              <img src="../assets/info.png" alt="Success Illustration" className="login-illustration" />
               <h3>Your journey starts now.</h3>
             </div>
           </div>
