@@ -106,7 +106,7 @@ export default function App() {
 
             <div className="header-brand" onClick={() => nav(user ? '/dashboard' : '/')}>
               <div className="brand-text-container">
-                <img src="./src/assets/info.png" alt="logo" className="logo" />
+              <h1>Vinsup Info Tech</h1>
               </div>
             </div>
 
