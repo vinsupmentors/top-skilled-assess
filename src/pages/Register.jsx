@@ -55,6 +55,7 @@ export default function Register() {
     if (!form.name) return "Please enter your name.";
     if (!form.email) return "Please enter your email.";
     if (!form.phone) return "Please enter phone.";
+    if (!form.college) return "Please enter your college name."; 
     if (!form.degree) return "Please select degree.";
     if (!form.graduationYear) return "Please select graduation year.";
     if (!form.password) return "Please enter password.";
