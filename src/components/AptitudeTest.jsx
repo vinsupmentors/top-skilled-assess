@@ -8,7 +8,7 @@ export default function AptitudeTest({ studentId }) {
   const [questions, setQuestions] = useState([]);
   const [index, setIndex] = useState(0);
   const [answers, setAnswers] = useState({}); 
-  const [timeLeft, setTimeLeft] = useState(20 * 60); 
+  const [timeLeft, setTimeLeft] = useState(15 * 60); 
   const [loading, setLoading] = useState(true);
   const [errorMsg, setErrorMsg] = useState(null); // New state for backend errors
   const timerRef = useRef(null);
