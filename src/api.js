@@ -1,5 +1,5 @@
 // REPLACE WITH YOUR NEW DEPLOYMENT URL
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwr5Ri4nvczlVivUZEowSdxhoBhgroDPhco25S5rcgO2uLyjUeKeUWUd3TzDh55a55g/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwXjqbaaJ2zE_yEAm0PeqmmVWvKCBkmLdAQA9YJOp6ebPeqKW3rNylggArS1GIo8g8N/exec";
 
 export const post = async (action, data) => {
   try {
